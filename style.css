@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(12, 12, 12);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+h1{
+    text-align: center;
+    
+    color: rgb(244, 234, 234);
+    margin-top: 30px;
+}
+#img1{
+    padding-top: 80px;
+    margin-left: 510px;
+}
+#img2{
+    padding-top: 20px;
+   top: 20%;
+   left: 55%;
+  position: absolute;
+}
+#rock{
+    position: absolute;
+    left: 600px;
+    top: 75%;
+    
+   
+}
+#paper{
+    position: absolute;
+    left: 750px;
+    top: 75%;
+   
+   
+}
+#scissor{
+    position: absolute;
+    left: 900px;
+    top: 75%;
+    
+   
+}
+button{
+    height: 50px;
+    width: 90px;
+    font-size: large;
+    background-color: orange;
+    border: solid rgb(224, 221, 221);
+    border-radius: 44px;
+    cursor: pointer;
+}
+#START{
+    background-color: green;
+    position: absolute;
+    top: 85%;
+    left: 750px;
+}
